@@ -6,4 +6,4 @@ ___
 Check Out [AdPosterEditorial]
 ___
 
-[AdPosterEditorial]: adpostereditorial.azurewebsites.net
+[AdPosterEditorial]: http://adpostereditorial.azurewebsites.net/
